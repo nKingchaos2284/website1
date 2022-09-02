@@ -1,21 +1,21 @@
 html {
-    background-color: #CA4897;
+    background-color: #484eca;
 }
 
 body {
-  background: #434474;
-  color: #E0H84E;
+    background: #434474;
+    color: #0d3e2b;
 }
 
 nav {
     background-color: #952594;
     padding: 10px;
-    border: solid 5px #5A78E0;
+    border: solid 5px #0d3e2b;
     display: inline-block;
 }
 
 h1 {
-  color: #E0D74E;
+    color: #E0D74E;
 }
 
 ul {
